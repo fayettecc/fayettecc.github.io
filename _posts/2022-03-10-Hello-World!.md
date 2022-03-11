@@ -7,4 +7,4 @@ image: HelloWorld.jpg             # (custom) image only for meta `property="og:i
 ---
 
 *This is the first post of my personal blog, **congrats** to myself!*
-![HelloWorld](/static/img/_posts/HelloWorld.jpg){:class="img-responsive"}
+![HelloWorld.jpg](/static/img/_posts/HelloWorld.jpg){:class="img-responsive"}
