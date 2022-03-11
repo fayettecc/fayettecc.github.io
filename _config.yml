@@ -5,7 +5,7 @@ github: https://github.com/fayettecc/
 about: I'm an undergraduate of the University of Rochester.
 google_analytics: UA-222725512-1
 
-enableTags: true
+enableTags: false
 tagarray: []
 
 collections:
