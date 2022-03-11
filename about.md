@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I'm Fayette Zhang, an undergraduate from the University of Rochester majoring in Biomedical Engineering. I am a part of Eta Chi Chapter, Beta Theta Phi Fraternity.
 
-email: agus[at]python.web.id
+email: fzh@fayette.top

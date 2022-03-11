@@ -1,44 +1,31 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+title: Fayette Lab
+description: My Personal Blog.
+author: Fayette Zhang
+github: https://github.com/fayettecc/
+about: I'm an undergraduate of the University of Rochester.
+google_analytics: UA-222725512-1
 
 enableTags: true
 tagarray: []
 
 collections:
-  project:
-    output: true
-    permalink: /project/:path/
 
 social:
     - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
+      link: "https://www.facebook.com/profile.php?id=100012793803505"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/hongzhang2002/"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/fayettecc/"
 
 share:
   twitter_username: github.io
-  fb_appid: 1749788565247320
 
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://fayette.top/"
 baseurl: ""
 paginate: 20
 per_page: 20
