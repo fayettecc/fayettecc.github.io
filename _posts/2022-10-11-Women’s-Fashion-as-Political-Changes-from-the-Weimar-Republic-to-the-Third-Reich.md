@@ -14,7 +14,7 @@ WEIMAR GOLDEN AGE
 
 Apart from the presence of Elisabeth of Bavaria (VanDemark 2) and Maria Theresa (Yonan 14), when the Frankish king Clovis formalized the Salic Law, Germanic women generally lived under male despotism and were treated as subordinates and dependents by their male counterparts (Taylor 363). However, following the collapse of the Second Reich, the Weimar Republic unexpectedly codified its constitution by granting women the right to vote (Articles 17 and 22) due to vast demonstrations for women's suffrage (Todd 655), equality between men and women in civil matters (Article 109), non-discrimination against female bureaucrats (Article 128), maternity rights (Article 19), and equality of spouses in marriage (Article 119) ("Weimar Constitution"). Women's engagement in politics was boosted due to the liberalization measures that followed; a stunning 82 percent of women voted in the 1919 National Assembly election. According to official figures, they held 10% of the seats (Woodfin 91). Meanwhile, the abolition of censorship also allowed for the publication and circulation of controversial information both politically and sexually (Beetham 123).
 
-![A crowd of women standing in line at a polling station](/_photos/3/1.png "A crowd of women standing in line at a polling station")
+![A crowd of women standing in line at a polling station](/3/1.png "A crowd of women standing in line at a polling station")
 
 Fig. 1: "_A crowd of women standing in line at a polling station.",__1919._ ullstein bild via Getty Images.
 
@@ -38,7 +38,7 @@ Weimar female fashion was also particularly strongly connected with Jewish women
 
 Regina Friedländer, a female hat designer, is an excellent example of a female Jewish designer who has achieved significant success. In the 1920s, her work was influential to a wide range of people, including readers of women's fashion magazines, well-dressed Berlin consumers, costume designers working in theater and film, those interested in architecture and design, and those who saw a connection between art and fashion, among others (Greenspoon). Her main salon in Potsdamer Platz stayed open until 1936 when it was most likely forced to cease due to financial constraints (Wallach 116).
 
-![Frau mit Hut](/_photos/3/2.png "Frau mit Hut")
+![Frau mit Hut](/3/2.png "Frau mit Hut")
 
 Fig. 2: Friedlaender, Regina. _Frau mit Hut_. Kunstbibliothek der Staatlichen Museen zu Berlin.
 
@@ -50,7 +50,7 @@ Generally, the Nazi leadership was diverse in its aggressiveness toward women's 
 
 Another profitable method to eliminate the social and political status of women as well as empower the appearance that women should be in their home and focus on their marriages is propaganda. Specifically, women's political emancipation and women's entrée into traditionally male-dominated vocations and careers were viewed as grave errors that needed to be rectified. According to Rupp (371), Alfred Rosenberg, a Nazi theorist, stated that "Emancipation of the woman from the women's emancipation movement is the first demand of a generation of women who would like to save the Volk and the race … from decline and fall" (qtd. in Boger-Eichler 21). For the most part, women, as prolific mothers, child bearers, and purveyors of Nazi ideology, were deprived of almost all political power and unceremoniously thrown out of various professions that would become "wombs" (qtd. in von Groote). In addition, the Nazis weakened the political status of women by sponsoring and honoring the image of the "perfect Aryan woman." In 1939, according to the Koonz, the Third Reich awarded the "German Mother's Cross of Honor" to prolific mothers as an expression of national appreciation and recognition for their "important service" to the nation (Guenther).
 
-![Cross of Honor of the German Mother](/_photos/3/3.png "Cross of Honor of the German Mother")
+![Cross of Honor of the German Mother](/3/3.png "Cross of Honor of the German Mother")
 
 Fig. 3: "_Cross of Honor of the German Mother.", 1943._ German Federal Archive.
 
@@ -70,7 +70,7 @@ Nonetheless, as the war progressed, the Third Reich began to conscript female so
 
 Nazi women in the upper echelons of society were probably the only women with the right to fashion self-determination. With her blonde hair and "icy blue eyes" (Grube 108), Magda Goebbels, the potential First Lady of the Third Reich, may seem like the perfect choice for the "perfect Aryan woman. However, being in the upper echelons of the Nazi party, she possessed numerous "vices" (Guenther) that did not fit the Nazi propaganda of women's fashion, such as her extensive use of cosmetics (Davis 136) and smoking (Bleuel 140). Furthermore, in an interview she asserted that "the German woman of the future should be stylish, beautiful and intelligent" (qtd. in D. J. K. Peukert 152).The act indeed refuted Nazi ideology, but, in the end, she received no punishment from Hitler. Yet this was a minority phenomenon that cannot be used as refuting the argument; most women living in Nazi Germany enjoyed a politically manipulated fashion.
 
-![Magda (m) during a tea party in the garden of the Reich Chancellery](/_photos/3/4.png "Magda (m) during a tea party in the garden of the Reich Chancellery")
+![Magda (m) during a tea party in the garden of the Reich Chancellery](/3/4.png "Magda (m) during a tea party in the garden of the Reich Chancellery")
 
 Fig. 4: "_Magda (m) during a tea party in the garden of the Reich Chancellery.", 1934._
 

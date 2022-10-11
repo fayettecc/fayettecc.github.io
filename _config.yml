@@ -8,6 +8,10 @@ google_analytics: UA-222725512-1
 enableTags: false
 tagarray: []
 
+defaults:
+  - scope:
+      path: "_photos"
+
 collections:
 
 social:
