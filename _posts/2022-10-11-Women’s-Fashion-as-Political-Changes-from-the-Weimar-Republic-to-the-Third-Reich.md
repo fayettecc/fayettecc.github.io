@@ -59,7 +59,7 @@ However, the Nazis were trying to control all the department stores that were fo
 
 Nevertheless, the relatively liberal female fashions created by the Weimar Republic were generally wiped out. A great deal of female fashion was politically stigmatized during this period, especially Jewish design, which was vivid and bold until the 1930s; it mirrored women's growing freedom in all spheres of social life. However, the Nazis regarded these liberties and creative expression as hazardous. The confiscated fashion businesses were required to release conservative, utilitarian apparel under the new restrictions (Guenther). The designs reinforced gender expectations that women would devote their energies to creating faithful Aryans.Women's fashion was "extinguished" at this stage rather than being the result of natural social selection. In fact, the Nazis used dress codes to maintain political control and social hierarchy.
 
-COMPARISON
+_COMPARISON_
 
 In the period between the Weimar Republic and the Third Reich, it was politics, and especially political propaganda, that changed women's fashion through and through. A better proof of the argument is related to the masculine fashion of women in the Weimar Republic. As stated above, the trend thrived from the 1920s (Sutton 26) to the rise of Hitler. The propaganda of the "motherhood program" suggested that German women should wear "Trachten-kleidung," which is a kind of ancient rural women's style (Guenther). This feminine attire includes corseted gowns, shawls, and scarves (qtd in. Kirkpatrick 108).The popularity of this return to feminine women's clothing was officially endorsed. Many magazines, such as "Koralle" (Böth 11), would promote the work by featuring a young girl in this costume on their covers. In addition, the garments catered to the central theme of women returning to the home, as they were more suited to hand-sewing than to being sold as ready-to-wear (Guenther). Under this propaganda campaign, the Trachten-kleidung became the traditional and popular dress for women in Nazi Germany.
 
@@ -71,7 +71,7 @@ Nazi women in the upper echelons of society were probably the only women with th
 
 Fig. 4: "_Magda (m) during a tea party in the garden of the Reich Chancellery.", 1934._
 
-CONCLUSION
+_CONCLUSION_
 
 According to Adrian Leftwich, "Politics comprises all the activities of co-operation, negotiation, and conflict within and between societies" (14). These activities shaped fashion, especially women's fashion, from the Weimar Republic to the Third Reich. Some may argue that fashion is purely aesthetic; however, the available evidence all points amply to the fact that fashion not only has a lot to do with politics but that politics can directly manipulate fashion.
 
